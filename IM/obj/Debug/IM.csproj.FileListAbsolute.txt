@@ -1,0 +1,13 @@
+c:\users\jerry\documents\visual studio 2015\Projects\VersgIM\IM\bin\Debug\IM.exe.config
+c:\users\jerry\documents\visual studio 2015\Projects\VersgIM\IM\bin\Debug\IM.exe
+c:\users\jerry\documents\visual studio 2015\Projects\VersgIM\IM\bin\Debug\IM.pdb
+c:\users\jerry\documents\visual studio 2015\Projects\VersgIM\IM\bin\Debug\agsXMPP.dll
+c:\users\jerry\documents\visual studio 2015\Projects\VersgIM\IM\bin\Debug\IM.Core.dll
+c:\users\jerry\documents\visual studio 2015\Projects\VersgIM\IM\bin\Debug\IM.Core.pdb
+c:\users\jerry\documents\visual studio 2015\Projects\VersgIM\IM\obj\Debug\IM.csprojResolveAssemblyReference.cache
+c:\users\jerry\documents\visual studio 2015\Projects\VersgIM\IM\obj\Debug\IM.Properties.Resources.resources
+c:\users\jerry\documents\visual studio 2015\Projects\VersgIM\IM\obj\Debug\IM.csproj.GenerateResource.Cache
+c:\users\jerry\documents\visual studio 2015\Projects\VersgIM\IM\obj\Debug\IM.exe
+c:\users\jerry\documents\visual studio 2015\Projects\VersgIM\IM\obj\Debug\IM.pdb
+c:\users\jerry\documents\visual studio 2015\Projects\VersgIM\IM\obj\Debug\IM.frmLogin.resources
+c:\users\jerry\documents\visual studio 2015\Projects\VersgIM\IM\obj\Debug\IM.frmMain.resources

@@ -1,0 +1,6 @@
+c:\users\jerry\documents\visual studio 2015\Projects\VersgIM\IM.Core\obj\Debug\IM.Core.csprojResolveAssemblyReference.cache
+c:\users\jerry\documents\visual studio 2015\Projects\VersgIM\IM.Core\bin\Debug\IM.Core.dll
+c:\users\jerry\documents\visual studio 2015\Projects\VersgIM\IM.Core\bin\Debug\IM.Core.pdb
+c:\users\jerry\documents\visual studio 2015\Projects\VersgIM\IM.Core\bin\Debug\agsXMPP.dll
+c:\users\jerry\documents\visual studio 2015\Projects\VersgIM\IM.Core\obj\Debug\IM.Core.dll
+c:\users\jerry\documents\visual studio 2015\Projects\VersgIM\IM.Core\obj\Debug\IM.Core.pdb
