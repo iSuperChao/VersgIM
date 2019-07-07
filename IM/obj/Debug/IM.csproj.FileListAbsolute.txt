@@ -11,3 +11,6 @@ c:\users\jerry\documents\visual studio 2015\Projects\VersgIM\IM\obj\Debug\IM.exe
 c:\users\jerry\documents\visual studio 2015\Projects\VersgIM\IM\obj\Debug\IM.pdb
 c:\users\jerry\documents\visual studio 2015\Projects\VersgIM\IM\obj\Debug\IM.frmLogin.resources
 c:\users\jerry\documents\visual studio 2015\Projects\VersgIM\IM\obj\Debug\IM.frmMain.resources
+C:\VersgIM\IM\bin\Debug\IM.exe.config
+C:\VersgIM\IM\obj\Debug\IM.exe
+C:\VersgIM\IM\obj\Debug\IM.pdb
